@@ -1,6 +1,5 @@
-# cra-template-typescript
-
-This is the official TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
+# cra-template-shibin
+This project was bootstrapped with Create React App, using the Redux and Redux Toolkit TS template.
 
 To use this template, add `--template shibin` when creating a new app.
 
